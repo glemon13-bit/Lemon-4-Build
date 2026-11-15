@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: lightpink;
+    background-color: pink;
     color: saddlebrown;
     line-height: 1.6;
 }
 
 header {
-    background-color: pink;
+    background-color: lightpink;
     text-align: center;
     padding: 30px 15px;
     font-size: 20px;
@@ -32,13 +32,13 @@ nav {
 }
 
 nav a {
-    color: sienna;
+    color: brown;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: linen;
+    color: white;
 }
 
 
@@ -113,7 +113,7 @@ ul {
 
 footer {
     background-color: lightpink;
-    color: linen;
+    color: white;
     text-align: center;
     padding: 20px;
     margin-top: 20px;
